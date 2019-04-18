@@ -1,0 +1,36 @@
+.form-group {
+    background-color: antiquewhite;
+    border-color: black;
+    border-radius: 4px;
+    border-width: 1px;
+}
+
+.form-control {
+    background-color: black;
+    color: white;
+}
+
+.col-sm-3 {
+    font-family: "Passion One";
+    font-kerning: -1;
+    font-size: 30px;
+    font-variant-caps: petite-caps;
+    font-weight: 700;
+}
+
+.form-control {
+    font-family: 'Courier New', Courier, monospace;
+    font-kerning: 3;
+    font-size: 20px;
+    font-variant-caps: titling-caps;
+    font-weight: 300;
+    color: whitesmoke;
+}
+
+option {
+    font-weight: 200;
+    color: purple;
+    background-color: aqua;
+    border-radius: 15px;
+    border-width: 10px;
+}
